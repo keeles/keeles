@@ -1,6 +1,6 @@
 ## Hi, i'm Kyle! 
 
-I am a Full-Stack Web Developer located in Vancouver, BC. When I am not working on coding projects I spend my time Skateboarding and cycling. Check out some of my projects in my top repositories!
+I am a Full-Stack Web Developer located in Vancouver, BC. When I am not working on coding projects I spend my time skateboarding and cycling. Check out some of my projects in my top repositories!
 
 ### Tech Skills Include:
 
